@@ -1,1 +1,9 @@
 venv/
+*.log
+*.pyc
+*.bat
+data/
+*.bin
+*.mdf
+*.ldf
+*.ndf
